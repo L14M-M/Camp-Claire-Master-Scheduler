@@ -2,7 +2,7 @@
 
 ## Overview
 
-This Java project is a scheduling algorithm originally designed for Camp Claire's class scheduling but adapted for general use. The algorithm schedules participants into classes based on their preferences while adhering to various constraints and criteria. It aims to balance camper preferences with class availability and requirements, ensuring an efficient and fair schedule for all participants.
+This Java project is a scheduling algorithm originally designed for Camp Claire Inc.'s class scheduling but adapted for general use. The algorithm schedules participants into classes based on their preferences while adhering to various constraints and criteria. It aims to balance camper preferences with class availability and requirements, ensuring an efficient and fair schedule for all participants.
 
 ## Features
 
@@ -79,4 +79,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For any questions or issues, please reach out to [your email or contact information here].
+For any questions or issues, please reach out to liam1@terpmail.umd.edu.
