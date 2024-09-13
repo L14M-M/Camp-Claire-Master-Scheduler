@@ -124,7 +124,7 @@ public class Schedule implements Comparable<Object> {
                         }
                     }
                 }
-                score += 10 * (highestEnrolled - lowestEnrolled);
+                score += class_.getSinglePeriodCutoff() * (highestEnrolled - lowestEnrolled);
             }
         }
         return score;
