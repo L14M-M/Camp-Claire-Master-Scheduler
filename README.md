@@ -1,4 +1,4 @@
-# Scheduling Algorithm for Camp Claire
+# Priority Satisfaction Scheduler
 
 ## Overview
 
