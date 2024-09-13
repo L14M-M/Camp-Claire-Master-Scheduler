@@ -7,7 +7,7 @@ This Java project is a scheduling algorithm originally designed for Camp Claire'
 ## Features
 
 - **Class Preferences:** Participants rank their top class choices. The algorithm tries to accommodate these preferences as much as possible.
-- **Single Period Cutoff (SPC):** Each class has an SPC which determines how many top-three rankings are needed to include the class in the schedule.
+- **Single Period Cutoff (SPC):** Each class has an SPC which determines how many campers should be ideally added to any single period and how many top-three rankings are needed to include the class in the schedule.
 - **Period Allocation:** The camp offers 3 periods per day, and each participant retains their schedule for the entire week.
 - **Class Properties:**
   - **Restricted Periods:** Specific periods where a class can be scheduled.
